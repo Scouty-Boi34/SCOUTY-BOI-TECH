@@ -1,5 +1,5 @@
 {
-  "name": "ultraxas",
+  "name": "SCOUTY-BOI MD",
   "version": "2.1.0",
   "description": "Advanced WhatsApp bot using Baileys",
   "main": "index.js",
@@ -24,7 +24,7 @@
     "whatsapp-bot",
     "ultraxas"
   ],
-  "author": "ultraxas",
+  "author": "SCOUTY-BOI",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
